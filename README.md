@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elham Hesham Mohamed</h1>
 <h3 align="center">A passionate full stack developer from EGYPT</h3>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently Senior front end developer 
 
 - 📫 How to reach me **elhamhesham18@gmail.com**
 
